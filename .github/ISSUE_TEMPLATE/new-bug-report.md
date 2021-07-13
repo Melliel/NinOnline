@@ -46,6 +46,13 @@ assignees: ''
 
 <details><summary>View details</summary>
 
-PASTE HERE
+Problem description: Sometime i see people around me has short freeze duration time and then a bit teleporting after freeze. But this doesnt affect my character i can still cast jutsu and walk without getting freeze. I believe it doesnt because of my internet or ping cause i have exitlag and stable ping 
+Steps to reproduce issue: When people around me walk, run or fighting in game
+Observed result: 
+Expected result:
+More details: I bought a brand new laptop Lenovo legion 5 82B10039MX Processor AMD Ryzen 5 4600H, NVIDIA GeForce RTX 2060
+Affected Client Version:Lastes client version
+
+First noticed:Since i start playing on my new laptop. This problem doesnt occur on my old laptop
 
 </details>
